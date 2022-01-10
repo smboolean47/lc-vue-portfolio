@@ -6,7 +6,7 @@
                   <img class="about__image" src="../../assets/images/avatar.png" alt="Samuele">
               </div>
               <div class="col-7">
-                  <h3>Ciao, mi chiamo Samuele 😊</h3>
+                  <h3>Ciao, mi chiamo Samuele Madrigali 😊</h3>
                   <p>Sono un:</p>
                   <ul>
                       <li>Full Stack Developer 💻</li>
