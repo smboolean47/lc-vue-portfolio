@@ -26,6 +26,9 @@ export default {
 
 <style lang="scss" scoped>
 .header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
     padding: 20px 0;
     border-bottom: 1px solid #fff;
 }

@@ -2,13 +2,13 @@
   <nav class="nav-bar">
       <ul class="nav-bar__list">
         <li class="nav-bar__item">
-            <a href="#">Chi Sono</a>
+            <a href="#chi-siamo">Chi Sono</a>
         </li>
         <li class="nav-bar__item">
-            <a href="#">Ultime News</a>
+            <a href="#ultime-news">Ultime News</a>
         </li>
         <li class="nav-bar__item">
-            <a href="#">Contatti</a>
+            <a href="#contatti">Contatti</a>
         </li>
       </ul>
   </nav>
