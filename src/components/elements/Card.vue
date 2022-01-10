@@ -24,6 +24,9 @@ export default {
     color: #333;
     border-radius: 10px;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 
     &__image {
         width: 100%;
